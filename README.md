@@ -82,9 +82,9 @@
  
 ### 经济激励
 
- ** 密码经济学
+ * 密码经济学
  
- ** 博弈论
+ * 博弈论
 
 
 github语法：https://blog.csdn.net/u012067966/article/details/50736647
