@@ -1,3 +1,4 @@
-# 区块链入门
-Blockchain for beginners
-hello world
+# Hello World
+Here is a short guide for blockchain beginners.
+
+foreward
