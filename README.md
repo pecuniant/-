@@ -6,7 +6,7 @@
 
 ### 一、数字货币
 
-#### [【1】比特币衍生](https://github.com/pecuniant/Blockchain-for-beginners/blob/master/Chapter%201%20Cryptocurrencies)
+#### [【1】比特币衍生](https://github.com/pecuniant/Blockchain-for-beginners/blob/master/Chapter%201%20Cryptocurrencies.md)
 
 * 比特币
 
